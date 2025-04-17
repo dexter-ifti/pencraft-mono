@@ -1,3 +1,7 @@
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dexter-ifti/pencraft-mono@github)](https://gitads.dev/v1/ad-track?source=dexter-ifti/pencraft-mono@github)
+
+
 # Turborepo starter
 
 This is an official starter Turborepo.
@@ -83,4 +87,7 @@ Learn more about the power of Turborepo:
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
 
-<!-- GitAds-Verify: VR7XDB8SQ4FTR4C8QOE4UPVWDCTRHVNB -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dexter-ifti/pencraft-mono@github)](https://gitads.dev/v1/ad-track?source=dexter-ifti/pencraft-mono@github)
+
+
